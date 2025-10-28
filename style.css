@@ -34,6 +34,13 @@ button:hover {
     background-color: #555;
 }
 
+img {
+    
+    display: block;       /* serve per poterla centrare */
+    margin: 0 auto;       /* margine automatico a sinistra e destra */
+    width: 150px;         /* esempio di larghezza */
+    height: auto;         /* mantiene le proporzioni */
+}
 
 
 
