@@ -1,4 +1,5 @@
 body {
+    text-align: center;
     font-family: Arial, sans-serif;
     background-color: #f2f2f2;
     margin: 40px;
@@ -41,6 +42,7 @@ img {
     width: 50px;         /* esempio di larghezza */
     height: auto;         /* mantiene le proporzioni */
 }
+
 
 
 
