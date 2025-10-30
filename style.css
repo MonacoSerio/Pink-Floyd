@@ -18,7 +18,7 @@ nav {
 nav a {
     margin: 0 35px;
     text-decoration: none;
-    color: #003366;
+    color: #8B0000;
 }
 
 nav a:hover {
@@ -45,6 +45,7 @@ img {
     width: 50px;         /* esempio di larghezza */
     height: auto;         /* mantiene le proporzioni */
 }
+
 
 
 
