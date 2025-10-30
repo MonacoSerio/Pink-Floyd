@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     background-image: url("https://c4.wallpaperflare.com/wallpaper/441/122/478/space-triangle-galaxy-sky-wallpaper-preview.jpg");
     background-size: cover;
-    background-position: -50px center;
+    background-position: -30px center;
     background-attachment: fixed;
     margin: 40px;
 }
@@ -45,6 +45,7 @@ img {
     width: 50px;         /* esempio di larghezza */
     height: auto;         /* mantiene le proporzioni */
 }
+
 
 
 
