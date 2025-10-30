@@ -9,7 +9,7 @@ body {
 }
 h1 {
     text-align: center;
-    color: darkred;
+    color: #FF007F;
 }
 nav {
     text-align: center;
@@ -45,6 +45,7 @@ img {
     width: 50px;         /* esempio di larghezza */
     height: auto;         /* mantiene le proporzioni */
 }
+
 
 
 
