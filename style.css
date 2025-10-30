@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: Arial, sans-serif;
-    background-image: url(https://akm-img-a-in.tosshub.com/indiatoday/images/story/201901/farsidedarkmoon11012019_0.jpeg?VersionId=mkBEtNu530aZYP53vYSuAt3N05ub18xH&size=690:388);
+    background-image: url("https://akm-img-a-in.tosshub.com/indiatoday/images/story/201901/farsidedarkmoon11012019_0.jpeg?VersionId=mkBEtNu530aZYP53vYSuAt3N05ub18xH&size=690:388");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -45,6 +45,7 @@ img {
     width: 50px;         /* esempio di larghezza */
     height: auto;         /* mantiene le proporzioni */
 }
+
 
 
 
