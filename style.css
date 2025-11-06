@@ -39,14 +39,15 @@ button:hover {
 }
 
 img {
-  width: 300px;          /* tutte le immagini larghe uguali */
-  height: auto;          /* mantiene proporzioni */
-  margin: 20px;          /* spazio intorno */
-  border-radius: 10px;   /* angoli arrotondati, facoltativo */
-  display: inline-block; /* le mette in linea una accanto all’altra */
-  vertical-align: middle;/* le allinea meglio tra loro */
-  cursor: pointer;       /* fa comparire la manina: immagine cliccabile */
+  width: 300px;        
+  height: auto;         
+  margin: 20px;        
+  border-radius: 10px;   
+  display: inline-block; 
+  vertical-align: middle;
+  cursor: pointer;       
 }
+
 
 
 
