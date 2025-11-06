@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: Arial, sans-serif;
-    background-image: url("https://c4.wallpaperflare.com/wallpaper/441/122/478/space-triangle-galaxy-sky-wallpaper-preview.jpg");
+    background-image: url("img/space-triangle-galaxy-sky-wallpaper-preview.jpg");
     background-size: cover;
     background-position: -15px center;
     background-attachment: fixed;
@@ -47,6 +47,7 @@ img {
   vertical-align: middle;
   cursor: pointer;       
 }
+
 
 
 
